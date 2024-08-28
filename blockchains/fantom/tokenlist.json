@@ -1,3 +1,13 @@
+       {
+            "asset": "c10000250_t0x65C19f937a52314233413830421f58378e07b551",
+            "type": "FANTOM",
+            "address": "0x65C19f937a52314233413830421f58378e07b551",
+            "name": "SUDDENLY",
+            "symbol": "SUDD",
+            "decimals": 18,
+            "logoURI": "https://github.com/chatgpt2024-cpu/depo-plan-a/blob/main/0xe4Be3A10E390220FF30BBf63E157D3F35162971e.png",
+            "pairs": []
+        },
 {
     "name": "Trust Wallet: Fantom List",
     "logoURI": "https://trustwallet.com/assets/images/favicon.png",
